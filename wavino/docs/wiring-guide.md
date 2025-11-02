@@ -1,8 +1,3 @@
----
-
-## 📗 *docs/wiring-guide.md*
-
-```markdown
 # ⚡ Wavino Wiring Guide
 
 This guide explains how to connect the Arduino Uno, the HC-SR04 ultrasonic sensor, and the SG90 servo motor for the Wavino project.
